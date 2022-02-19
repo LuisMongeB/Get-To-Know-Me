@@ -17,7 +17,14 @@ In this project the following aspects were covered:
 - Basic Cosine Similarity to find similar artists
 - Clustering to form pseudo-playlists
 
-Data Manipulation Libraries: Pandas, Numpy
-Visualization Libraries: Matplotlib, Seaborn
-Machine Learning Libraries: Sklearn
-Feature Extraction and API: Requests, JSON, Spotipy
+Data Manipulation Libraries:
+Pandas, Numpy
+
+Visualization Libraries: 
+Matplotlib, Seaborn
+
+Machine Learning Libraries:
+Sklearn
+
+Feature Extraction and API:
+Requests, JSON, Spotipy
