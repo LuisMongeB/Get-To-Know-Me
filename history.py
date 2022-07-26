@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+Thanks to the author for making this code available through github!
 Created on Mon Jan 27 18:41:32 2020
 @author: vlad
 """
